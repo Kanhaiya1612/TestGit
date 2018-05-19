@@ -1,4 +1,4 @@
-package com.practice.com.practice.demo;  gggg'g'ngfhfgklghkl;
+package com.practice.com.practice.demo;
 
 import java.io.IOException;
 import java.text.DateFormat;
